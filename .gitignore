@@ -1,0 +1,4 @@
+*.log
+logs/
+api_creds.env
+user_data/data/
